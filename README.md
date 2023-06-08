@@ -2,18 +2,18 @@
 
 Running the application
 1. Activate the .venv file that is stored within the folder.
-$ cd Social Media App
-$ source .venv/bin/activate
+    $ cd Social Media App
+    $ source .venv/bin/activate
 
 2. Install Libraries
-$ pip install -r requirements.txt
+    $ pip install -r requirements.txt
 
 2. Run redis
-$ redis-server
+    $ redis-server
 
 3. Initialize the server
-$ cd social_media
-$ python manage.py runserver
+    $ cd social_media
+    $ python manage.py runserver
 
 
 I have completed a social media app called Social. Social is a social media much like that of Instagram. The purpose of the Social is to create a platform where users can share interesting artwork or images they made with other like minded people online.
